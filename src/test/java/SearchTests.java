@@ -14,8 +14,4 @@ public class SearchTests {
 }
 
 
-<<<<<<< HEAD
-// Здесь будет конфликт
-=======
-// Здесь будет конфликт??????
->>>>>>> refs/remotes/origin/main
+!!!!!
